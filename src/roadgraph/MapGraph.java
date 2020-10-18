@@ -21,15 +21,10 @@ import util.GraphLoader;
  *
  */
 public class MapGraph {
-	//TODO: Add your member variables here in WEEK 3
     HashMap<GeographicPoint, MapNode> mapNodes;
 
-	/** 
-	 * Create a new empty MapGraph 
-	 */
 	public MapGraph() {
 	    mapNodes = new HashMap<>();
-		// TODO: Implement in this constructor in WEEK 3
 	}
 
 	/**

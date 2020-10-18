@@ -46,7 +46,8 @@ class MapNode {
         return minDist;
     }
 
-    /** @return list of neighbours GeographicPoints for current MapNode
+    /**
+     * @return list of neighbours GeographicPoints for current MapNode
      */
 
     public HashMap<MapNode, MapEdge> getNeighbours() {

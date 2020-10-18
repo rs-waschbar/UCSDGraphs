@@ -3,7 +3,7 @@ package roadgraph;
 import geography.GeographicPoint;
 
 /**
- * A class which represents paths between MapNodes
+ * A class which represents paths between Intersections/MapNodes
  */
 
 class MapEdge {
